@@ -1,4 +1,4 @@
 # Git-test
 Repo for git/sourceTree tutorial
 
-Test change.
+This line replaces previous Line (Test change.).
